@@ -17,7 +17,7 @@ A esse projeto a RocketSeat intitulou Be The Hero! Nesse projeto foi abordado a 
 
 Sinto muito orgulho de ter conseguido acompanhar e terminar na semana proposta pela RocketSeat, outro fator que foi grande valia foi entender o pipeline das empresas e ferramestas bacanas. Segue o um print da tela inicial da aplicação Front End. 
 
-![Tela Inicial](/Screen.png)
+
 
 ## Tecnologias Usadas:
 
@@ -39,7 +39,7 @@ Sinto muito orgulho de ter conseguido acompanhar e terminar na semana proposta p
 
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/expo/expo/master/style/header.png" width="250" alt="Expo" align="center">
+  <img src="https://expressjs.com/images/express-facebook-share.png" width="250" alt="Expo" align="center">
   <p>Expo é uma abstração acima do React Native, seu grande diferencial é ser totalmente JavaScript sem a necessidade do desenvolvedor e nem possibilidade de tocar no código fonte do Android e IOS. Mas ainda está amadurecendo não é toda aplicação que vai caber usar o Expo, porém para esse caso foi útil.</p>
 </p>
 
