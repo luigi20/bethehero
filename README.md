@@ -43,6 +43,12 @@ Sinto muito orgulho de ter conseguido acompanhar e terminar na semana proposta p
   <p>Expo é uma abstração acima do React Native, seu grande diferencial é ser totalmente JavaScript sem a necessidade do desenvolvedor e nem possibilidade de tocar no código fonte do Android e IOS. Mas ainda está amadurecendo não é toda aplicação que vai caber usar o Expo, porém para esse caso foi útil.</p>
 </p>
 
+### Features
+
+- Cadastro de ONG's
+- Cadastro de incidentes
+- Remover incidentes
+- Login de usuário
 
 ## Pretensões Futuras:
 
